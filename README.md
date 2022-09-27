@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Attia</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=TC96MdGb&id=0C72DFB29254598E72B0C005AD1269240DCCF085&thid=OIP.TC96MdGbvpyUX083UrCCEAHaEC&mediaurl=https%3a%2f%2fcdni.iconscout.com%2fillustration%2fpremium%2fthumb%2fcoding-project-1884980-1597918.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4c2f7a31d19bbe9c945f4f3752b08210%3frik%3dhfDMDSRpEq0FwA%26pid%3dImgRaw%26r%3d0&exph=450&expw=825&q=Coder+PNG&simid=608000402740748118&FORM=IRPRST&ck=5CD26C1C7EEA37EB1B4B6531CAD22CA3&selectedIndex=21" />
-- 💬 Ask me about **JavaScript , React , Next.js**
+<img align="right" alt="coding" width="400" src="[https://www.bing.com/images/search?view=detailV2&ccid=TC96MdGb&id=0C72DFB29254598E72B0C005AD1269240DCCF085&thid=OIP.TC96MdGbvpyUX083UrCCEAHaEC&mediaurl=https%3a%2f%2fcdni.iconscout.com%2fillustration%2fpremium%2fthumb%2fcoding-project-1884980-1597918.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4c2f7a31d19bbe9c945f4f3752b08210%3frik%3dhfDMDSRpEq0FwA%26pid%3dImgRaw%26r%3d0&exph=450&expw=825&q=Coder+PNG&simid=608000402740748118&FORM=IRPRST&ck=5CD26C1C7EEA37EB1B4B6531CAD22CA3&selectedIndex=21" ](https://th.bing.com/th/id/R.4c2f7a31d19bbe9c945f4f3752b08210?rik=hfDMDSRpEq0FwA&pid=ImgRaw&r=0)/> 
+
+- 💬 Ask me about ** JavaScript , React , Next.js **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
