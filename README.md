@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Attia</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
 
-- 💬 Ask me about **JavaScript , React , Next.js , PHP**
+- 💬 Ask me about **JavaScript , React , Next.js , PHP , Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
